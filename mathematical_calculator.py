@@ -1,5 +1,4 @@
 import math
-
 def calculator():
     print("Select operation:")
     print("1. Add")
